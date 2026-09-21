@@ -76,70 +76,6 @@
       </div>
     </div>
   </div>
-  <div class="section no-gap">
-    <div class="base-container w-container">
-      <div data-w-id="11fe856f-8c7d-c9d1-4781-504dd68733c2" style="opacity: 0;"
-        class="contacts-2-wrapper">
-        <div class="contacts-2-form-wrapper">
-          <div class="form-block-contacts">
-            <form id="email-form" name="email-form" action="submit-form.php" method="POST" class="form-wrap">
-              
-              <!-- Name Field -->
-              <input class="contacts-input w-input" maxlength="256" name="name" placeholder="Your name" type="text" id="name-2" required>
-
-              <!-- Email Field -->
-              <input class="contacts-input w-input" maxlength="256" name="email" placeholder="Your email" type="email" id="email-2" required>
-
-              <!-- Message Area -->
-              <textarea placeholder="Your text" maxlength="5000" id="field-2" name="message" required class="contacts-textarea w-input"></textarea>
-
-              <!-- Submit Button -->
-              <button type="button" id="contacts-submit-btn" class="primary-button full-width-mobile w-button" style="width: 100%; cursor: pointer;">Submit</button>
-
-              <!-- Success Message Box -->
-              <div id="contacts-success-message" style="display: none !important; margin-top: 15px; padding: 12px; background-color: #d4edda; color: #155724; border: 1px solid #c3e6cb; border-radius: 4px; text-align: center; font-size: 14px; font-weight: bold;">
-                Thank you! Your submission has been received!
-              </div>
-
-              <!-- Error Message Box -->
-              <div id="contacts-error-message" style="display: none !important; margin-top: 15px; padding: 12px; background-color: #f8d7da; color: #721c24; border: 1px solid #f5c6cb; border-radius: 4px; text-align: center; font-size: 14px; font-weight: bold;">
-                Oops! Something went wrong while submitting the form.
-              </div>
-
-            </form>
-          </div>
-        </div>
-        <div class="contacts-2-content-wrapper">
-          <div class="contacts-title">
-            <h2>Contact our support team </h2>
-          </div>
-          <div class="contacts-2-content display-none">
-            <p class="paragraph-large">Our experienced team is here to assist
-              you throughout your dental journey, offering expert advice,
-              scheduling assistance, and compassionate support to ensure your
-              comfort and confidence in every visit.<br></p>
-          </div>
-          <div class="location-wrap">
-            <div class="work-detail">
-              <p class="contacts-icon primary"></p><a
-                href="https://www.google.com.ua/maps/place/" target="_blank"
-                class="contact-us-link w-inline-block">
-                <p class="contact-us-link">Lohegaon, Pune<br></p>
-              </a>
-            </div>
-            <div class="work-detail">
-              <p class="contacts-icon primary"></p>
-              <a href="tel:+919730654545" class="contact-us-link">+91 9730654545</a>
-            </div>
-            <div class="work-detail">
-              <p class="contacts-icon primary"></p>
-              <a href="mailto:information@office.com" class="contact-us-link">information@office.com</a>
-            </div>
-          </div>
-        </div>
-      </div>
-    </div>
-  </div>
   <div class="section">
     <div class="base-container w-container">
       <div data-w-id="8989ee74-68aa-89b0-f9fb-c214c3221b28"
@@ -343,56 +279,13 @@
       </div>
     </div>
   </div>
-  <div class="footer">
+  <div class="section no-gap">
     <div class="base-container w-container">
-      <div data-w-id="daf981fd-9b17-a0fb-7466-2c35634f2c75"
-        class="footer-wrapper" style="opacity: 0;">
-        <div class="footer-brand-wrapper"><a
-            href="index.php"
-            class="footer-logo w-inline-block"><img
-              src="images/Dental-logo.svg"
-              loading="lazy" alt="" class="image-footer"></a>
-          <div class="circles-container"><img
-              src="images/Dentist-5.webp"
-              loading="lazy" width="40" height="40" alt="dentist"
-              data-w-id="67fcbd5f-41d7-5d3b-82e1-b82960b546f1"
-              class="dentist-image-six" style="opacity: 0;"><img
-              src="images/Dentist-6.webp"
-              loading="lazy" width="36" height="36" alt="dentist"
-              data-w-id="55293e85-3294-a12b-bb07-23cc68ff4b5d"
-              class="dentist-image-five" style="opacity: 0;"><img
-              src="images/Dentist.webp"
-              loading="lazy" width="40" height="40" alt="dentist"
-              data-w-id="f9143b63-69ed-87c8-14ed-076a38092c84"
-              class="dentist-image-four" style="opacity: 0;"><img
-              src="images/dentist-1.webp"
-              loading="lazy" width="32" height="32" alt=""
-              data-w-id="e49d2b85-d87f-5d48-2766-df98f8ce4ca4"
-              class="dentist-image-one" style="opacity: 0;"><img
-              src="images/Dentist-3.webp"
-              loading="lazy" width="26" height="26" alt=""
-              data-w-id="2acae4a3-8746-485e-d1b4-314a80e2f559"
-              class="dentist-image-three" style="opacity: 0;"><img
-              src="images/Dentist-2.webp"
-              loading="lazy" width="36" height="36" alt=""
-              data-w-id="ee4becdc-ccc6-d532-ec42-87e11f5a5a26"
-              class="dentist-image-two" style="opacity: 0;"></div>
-          <div class="footer-social-icons-wrapper"><a
-              href="https://www.twitter.com/" target="_blank"
-              class="footer-social-icon"></a><a
-              href="https://www.linkedin.com/" target="_blank"
-              class="footer-social-icon"></a><a href="https://facebook.com/"
-              target="_blank" class="footer-social-icon"></a></div>
-        </div>
-        <div class="footer-form-wrapper">
-          <div class="headers-wrapper">
-            <h2 class="h2" style="opacity: 0;">We’d love to help</h2>
-          </div>
-          <p data-w-id="9b7fd566-e37f-5969-d6f7-433460e7741c"
-            class="paragraph-large text-center" style="opacity: 0;">Our friendly
-            team would love to hear from you.</p>
+      <div data-w-id="11fe856f-8c7d-c9d1-4781-504dd68733c2" style="opacity: 0;"
+        class="contacts-2-wrapper">
+        <div class="contacts-2-form-wrapper">
           <div class="form-block-contacts">
-            <form id="email-form" name="email-form" action="javascript:void(0);" class="form-wrap">
+            <form id="email-form" name="email-form" action="submit-form.php" method="POST" class="form-wrap">
               
               <!-- Name Field -->
               <input class="contacts-input w-input" maxlength="256" name="name" placeholder="Your name" type="text" id="name-2" required>
@@ -404,23 +297,63 @@
               <textarea placeholder="Your text" maxlength="5000" id="field-2" name="message" required class="contacts-textarea w-input"></textarea>
 
               <!-- Submit Button -->
-              <button type="button" id="contacts-submit-btn" class="primary-button full-width-mobile w-button" style="width: 100%; cursor: pointer;">Submit</button>
+              <button type="submit" class="primary-button full-width-mobile w-button" style="width: 100%; cursor: pointer;">Submit</button>
 
-              <!-- Guaranteed Success Message Box -->
-              <div id="contacts-success-message" style="display: none; margin-top: 15px; padding: 12px; background-color: #d4edda; color: #155724; border: 1px solid #c3e6cb; border-radius: 4px; text-align: center; font-size: 14px; font-weight: bold; width: 100%; box-sizing: border-box;">
-                Thank you! Your submission has been received!
+              <!-- Success Message Box -->
+              <div id="contacts-success-message" role="status" aria-live="polite" style="display: none !important; margin-top: 15px; padding: 12px; background-color: #d4edda; color: #155724; border: 1px solid #c3e6cb; border-radius: 4px; text-align: center; font-size: 14px; font-weight: bold;">
+                Message sent successfully!
+              </div>
+
+              <!-- Error Message Box -->
+              <div id="contacts-error-message" role="alert" aria-live="assertive" style="display: none !important; margin-top: 15px; padding: 12px; background-color: #f8d7da; color: #721c24; border: 1px solid #f5c6cb; border-radius: 4px; text-align: center; font-size: 14px; font-weight: bold;">
+                Oops! Something went wrong while submitting the form.
               </div>
 
             </form>
           </div>
         </div>
+        <div class="contacts-2-content-wrapper">
+          <div class="contacts-title">
+            <h2>Contact our support team </h2>
+          </div>
+          <div class="contacts-2-content display-none">
+            <p class="paragraph-large">Our experienced team is here to assist
+              you throughout your dental journey, offering expert advice,
+              scheduling assistance, and compassionate support to ensure your
+              comfort and confidence in every visit.<br></p>
+          </div>
+          <div class="location-wrap">
+            <div class="work-detail">
+              <p class="contacts-icon primary"></p><a
+                href="https://www.google.com.ua/maps/place/" target="_blank"
+                class="contact-us-link w-inline-block">
+                <p class="contact-us-link">Lohegaon, Pune<br></p>
+              </a>
+            </div>
+            <div class="work-detail">
+              <p class="contacts-icon primary"></p>
+              <a href="tel:+919730654545" class="contact-us-link">+91 9730654545</a>
+            </div>
+            <div class="work-detail">
+              <p class="contacts-icon primary"></p>
+              <a href="mailto:information@office.com" class="contact-us-link">information@office.com</a>
+            </div>
+          </div>
+        </div>
       </div>
+    </div>
+  </div>
+  
+  <div class="footer">
+    <div class="base-container w-container">
+      
       <div class="footer-bottom-wrapper">
         <div class="footer-copyright">&copy; 2026 SmileCare. All Rights Reserved. </div>
       </div>
     </div>
   </div>
   <? include_once("js.php"); ?>
+  <script src="js/script.js" type="text/javascript"></script>
 </body>
 
 </html>

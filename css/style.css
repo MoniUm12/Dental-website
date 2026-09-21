@@ -8539,7 +8539,7 @@ blockquote {
 }
 
 .image-banner-container {
-  background-image: url("images/contact_banner.webp");
+  background-image: url("../images/contact_banner.webp");
   background-position: 100% 25%;
   background-repeat: no-repeat;
   background-size: cover;
